@@ -13,4 +13,6 @@ clone the repo from github
 
 [GitHub](https://github.com/buckxx1)
 
-# link to demo video 
+# link to demo vid
+
+[Demo](https://drive.google.com/file/d/1gmkJsB9ixcL1Bql7_nFNTZX-0yBQ8CjH/view?usp=sharing)
